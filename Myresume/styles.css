@@ -1,0 +1,78 @@
+ body {
+ 
+    background-image: url('https://thumbs.dreamstime.com/b/abstract-light-beige-background-image-interesting-texture-which-very-useful-design-purposes-high-quality-extremely-143383121.jpg');
+}
+h1 ,a {
+    font-family: monospace;
+    color: tomato;
+    text-align: center;
+}
+h2 {
+    margin: 20px;
+    color: tomato; 
+    font-family: monospace;
+}
+#placeholder {
+    margin: 20px;
+width: 300px;
+border: 2.5px solid gray;
+}
+#radio {
+    margin: 20px;
+}
+form {
+    margin: 20px;
+    color: tomato; 
+    font-size: large;
+    font-family: monospace;
+}
+h3 {
+    margin: 20px;
+    color: tomato; 
+    font-family: monospace;
+}
+p{
+    margin: 25px;
+    font-family: monospace; 
+    font-size: large;
+    color: #2F4F4F;
+}
+.picture {
+    width: 20%;
+    height: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+
+}
+ul {
+    margin: 20px;
+    border: 1px dashed steelblue;
+    font-family: monospace; 
+    font-size: large;
+    color: #696969;
+    columns: 100px 3;
+    border-radius: 5px;
+}
+table,th,td {
+    margin: 20px;
+    font-family: monospace; 
+    font-size: large;
+    color: #696969;
+    border: 1px dashed steelblue;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+  }
+  ol {
+    font-family: monospace; 
+    font-size: large;
+    color: #696969;
+  }
+  #placeholder {
+    margin: 20px;
+    border-radius: 8%;
+    border: solid seagreen;
+  }
