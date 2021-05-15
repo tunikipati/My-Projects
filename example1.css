@@ -1,0 +1,126 @@
+.primary_text{
+    margin-top: 15rem;
+}
+
+.image{
+    width: 300px;
+    height: 320px;
+    border-radius: 10%;
+    border: none;
+    padding: 16px 10px;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+.image:hover{
+    opacity: 1;
+    cursor: pointer;
+}
+.img-card{
+    position: relative;
+
+}
+.image1{
+    position: absolute;
+    top: -70px;
+    left: -500px;
+    
+}
+.image2{
+    position: absolute;
+    top: -70px;
+    left: -160px;
+}
+.image3{
+    position: absolute;
+    top: -70px;
+    left: 175px;
+}
+
+.container{
+    max-width: 2000px !important; 
+    height: 500px;
+    position: relative;
+    margin-left: 0%;
+    text-align: center;
+    color: black;
+    border: 1px solid;
+    margin-top: 10rem;
+    padding-bottom: 350px;
+    background-color: orangered;
+}
+.overly{
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    font-size: 50px;
+    font-family: monospace;
+  border-radius: 15px;
+}
+.overly:hover{
+    cursor: pointer;
+    animation: fadeIn linear 2000s;
+  -webkit-animation: fadeIn linear 2000s;
+  -moz-animation: fadeIn linear 2000s;
+  -o-animation: fadeIn linear 2000s;
+  -ms-animation: fadeIn linear 2000s;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+}
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+  }
+  .overly1{
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    font-size: 52px;
+    font-family: monospace;
+  border-radius: 15px;
+  }
+  .overly1:hover{
+    cursor: pointer;
+    animation: fadeIn linear 2000s;
+  -webkit-animation: fadeIn linear 2000s;
+  -moz-animation: fadeIn linear 2000s;
+  -o-animation: fadeIn linear 2000s;
+  -ms-animation: fadeIn linear 2000s;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+}
+  .overly2{
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    font-size: 52px;
+    font-family: monospace; 
+  border-radius: 15px;
+  }
+  .overly2:hover{
+    cursor: pointer;
+    animation: fadeIn linear 2000s;
+  -webkit-animation: fadeIn linear 2000s;
+  -moz-animation: fadeIn linear 2000s;
+  -o-animation: fadeIn linear 2000s;
+  -ms-animation: fadeIn linear 2000s;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+}
+

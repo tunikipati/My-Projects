@@ -51,8 +51,8 @@ body{
     cursor: pointer;
     font-size: 1.2rem;
 }
-
-.link a:hover {
-    color: #8a3ab9;}
+a{
+    color: white !important;
+}
 
    

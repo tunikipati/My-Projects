@@ -1,0 +1,53 @@
+.container{
+    
+    width: 18rem;
+    height: 30rem;
+}
+.card{
+    flex: 1; 
+    border: none !important;
+    
+}
+.box1{
+    Width: 60rem !important;
+}
+.box2{
+    width: 60rem !important;
+}
+.mc1{
+font: bold !important;
+}
+.img1{
+    width: 70%;
+    height: 75%;
+    
+}
+a{
+    text-decoration: none !important;
+    color: indigo !important; 
+}
+.img2{
+    width: 100%;
+    border-radius: 50%;
+    height: 90% !important;
+}
+.smalltext{
+    font-size: smaller;
+}
+.box2{
+    border-left: 2px dotted indigo !important;
+    height: 160% !important; 
+}
+p{
+    font-size: small;
+}
+.smalltext2{
+    padding-top: 1rem !important;
+}
+.smalltext3{
+    padding-top: 1rem !important;
+}
+.box3{
+    border-left: 2px dotted indigo !important;
+    height: 160% !important; 
+}
